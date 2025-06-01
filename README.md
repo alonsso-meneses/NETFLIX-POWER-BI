@@ -1,10 +1,10 @@
-# 📊 Netflix Streaming Data Dashboard (Power BI)
+# Netflix Streaming Data Dashboard (Power BI)
 
 This project presents a comprehensive visual analysis of Netflix's 2019 streaming catalog using **Power BI**. The goal is to explore key insights such as title distribution, content types, genres, ratings, and country-wise availability while demonstrating proficiency in **data cleaning**, **data modeling**, and **dashboard design**.
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 - To showcase strong skills in **data transformation** using Power Query.
 - To design **interactive dashboards** with a clear narrative.
@@ -13,7 +13,7 @@ This project presents a comprehensive visual analysis of Netflix's 2019 streamin
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 - **Source**: [Netflix Titles Dataset (Kaggle)](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 - **File used**: `netflix_titles_nov_2019.csv`
@@ -21,7 +21,7 @@ This project presents a comprehensive visual analysis of Netflix's 2019 streamin
 
 ---
 
-## 📈 Key Visualizations
+##  Key Visualizations
 
 - **Total Titles** by year and type (Movie / TV Show)
 - **Top Genres** by volume of shows
@@ -32,7 +32,7 @@ This project presents a comprehensive visual analysis of Netflix's 2019 streamin
 
 ---
 
-## 🛠 Tools and Technologies
+##  Tools and Technologies
 
 - [Power BI Desktop](https://powerbi.microsoft.com/)
 - Power Query for ETL
@@ -41,14 +41,14 @@ This project presents a comprehensive visual analysis of Netflix's 2019 streamin
 
 ---
 
-## 📸 Dashboard Preview
+##  Dashboard Preview
 
 ![NETFLIXPBI](https://github.com/user-attachments/assets/6a16212f-5cd8-497a-a8fe-ccff9c57245b)
 
 
 ---
 
-## 🔍 Data Cleaning Highlights
+##  Data Cleaning Highlights
 
 - Handled null and inconsistent values in key columns (e.g., `director`, `cast`)
 - Identified and filtered out rows with transformation errors
@@ -57,7 +57,7 @@ This project presents a comprehensive visual analysis of Netflix's 2019 streamin
 
 ---
 
-## 💡 Insights Extracted
+##  Insights Extracted
 
 - **Over 5,700 titles** were available on Netflix as of 2019.
 - **Movies account for ~67%** of all content.
@@ -67,7 +67,7 @@ This project presents a comprehensive visual analysis of Netflix's 2019 streamin
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 
 This project illustrates practical expertise in working with real datasets using Power BI. From data cleaning to insightful visualization, it demonstrates the ability to transform raw data into actionable intelligence in a visually compelling way.
 
