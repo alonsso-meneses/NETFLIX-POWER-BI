@@ -73,5 +73,4 @@ This project illustrates practical expertise in working with real datasets using
 
 ---
 
-## 📁 Repository Structure
 
